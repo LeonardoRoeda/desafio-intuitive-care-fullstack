@@ -5,7 +5,7 @@ O projeto foi desenvolvido com foco nos pilares solicitados: **KISS (Simplicidad
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
+* **IDE:*IntelliJ IDEA*
 * **ETL:** Java 11+ (Processamento de Arquivos)
 * **Backend:** Python 3.9+ (FastAPI + Pandas)
 * **Frontend:** Vue.js 3 (CDN) + TailwindCSS
