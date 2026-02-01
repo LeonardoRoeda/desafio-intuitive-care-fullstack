@@ -27,7 +27,7 @@ O Java é responsável por baixar, limpar e consolidar os dados.
 
 ### 3. API e Dashboard (Python & Vue)
 1.  Instale as dependências: `pip install fastapi "uvicorn[standard]" pandas`
-2.  Rode a API: `python -m uvicorn main:app --reload` dentro da pasta do projeto
+2.  Rode a API: `python -m uvicorn main:app --reload`via terminal dentro da pasta do projeto
 3.  Abra o arquivo `index.html` no navegador.
 
 ---
